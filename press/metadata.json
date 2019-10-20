@@ -1,0 +1,15 @@
+
+{
+    "name": "press",
+    "author": "CuongNC",
+    "email": "cuongnc.coder@gmail.com",
+    "version": "0.1.0",
+    "release_date": "28/09/2019",
+    "views": [
+        "views.front.index",
+        "views.front.page",
+        "views.admin.page"
+    ],
+    "templates": "templates",
+    "static": "static"
+}
